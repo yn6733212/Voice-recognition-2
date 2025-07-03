@@ -17,8 +17,8 @@ import tarfile # לייבוא tarfile עבור קבצי .tar.xz
 USERNAME = "0733181201"
 PASSWORD = "6714453"
 TOKEN = f"{USERNAME}:{PASSWORD}"
-DOWNLOAD_PATH = "10"  # השלוחה ממנה מורידים הקלטות
-UPLOAD_FOLDER_FOR_OUTPUT = "11" # השלוחה אליה מעלים את התשובות וה-INI
+DOWNLOAD_PATH = "20"  # השלוחה ממנה מורידים הקלטות
+UPLOAD_FOLDER_FOR_OUTPUT = "22" # השלוחה אליה מעלים את התשובות וה-INI
 
 # --- הגדרות קבצים ---
 CSV_FILE_PATH = "stock_data.csv"
