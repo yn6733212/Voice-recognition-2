@@ -1,13 +1,13 @@
 symbol,name,display_name,type,has_dedicated_folder,target_path
-AAPL,אפל,אַפֵּּל,stock_us,true,ivr2:/1/2/2/1/
-MSFT,מייקרוסופט,מַיְקְרוֹסוֹפְט,stock_us,true,ivr2:/1/2/2/2/
-GOOGL,גוגל,גוּגֶל,stock_us,true,ivr2:/1/2/2/3/
-AMZN,אמזון,אַמָזוֹן,stock_us,true,ivr2:/1/2/2/4/
-NVDA,אנבידיה,אֵנְבִידְיָה,stock_us,true,ivr2:/1/2/2/5/
-META,מטא,מֵטָא,stock_us,true,ivr2:/1/2/2/6/
-TSLA,טסלה,טֶסְלָה,stock_us,true,ivr2:/1/2/2/7/
-AMD,איי-אם-די,אֵי־אֵם־דִי,stock_us,true,ivr2:/1/2/2/8/
-INTC,אינטל,אִינְטֶל,stock_us,true,ivr2:/1/2/2/9/
+AAPL,אפל,אַפֵּּל,stock_us,true,ivr2:/1/2/2/01/
+MSFT,מייקרוסופט,מַיְקְרוֹסוֹפְט,stock_us,true,ivr2:/1/2/2/02/
+GOOGL,גוגל,גוּגֶל,stock_us,true,ivr2:/1/2/2/03/
+AMZN,אמזון,אַמָזוֹן,stock_us,true,ivr2:/1/2/2/04/
+NVDA,אנבידיה,אֵנְבִידְיָה,stock_us,true,ivr2:/1/2/2/05/
+META,מטא,מֵטָא,stock_us,true,ivr2:/1/2/2/06/
+TSLA,טסלה,טֶסְלָה,stock_us,true,ivr2:/1/2/2/07/
+AMD,איי-אם-די,אֵי־אֵם־דִי,stock_us,true,ivr2:/1/2/2/08/
+INTC,אינטל,אִינְטֶל,stock_us,true,ivr2:/1/2/2/09/
 NFLX,נטפליקס,נֶטְפְלִיקְס,stock_us,true,ivr2:/1/2/2/10/
 DIS,דיסני,דִּיסְנִי,stock_us,true,ivr2:/1/2/2/11/
 UBER,אובר,אוּבֶּר,stock_us,true,ivr2:/1/2/2/12/
@@ -23,11 +23,11 @@ WMT,וולמארט,ווֹלְמָארְט,stock_us,true,ivr2:/1/2/2/21/
 COST,קוסטקו,קוֹסְקוֹ,stock_us,true,ivr2:/1/2/2/22/
 NKE,נייקי,נַייקִי,stock_us,true,ivr2:/1/2/2/23/
 SBUX,סטארבקס,סְטָארְבָּקְס,stock_us,true,ivr2:/1/2/2/24/
-JPM,ג'י-פי-מורגן,ג'י־פִי־מוֹרְגָן,stock_us,true,ivr2:/1/2/2/25/
-BAC,בנק אוף אמריקה,בָּנְק אָוף אָמֶרִיקָה,stock_us,true,ivr2:/1/2/2/26/
+JPM,ג'י-פי-מורגן,גֵ'י־פִי־מוֹרְגֵן,stock_us,true,ivr2:/1/2/2/25/
+BAC,בנק אוף אמריקה,בָּנְק אוֹף אָמֶרִיקָה,stock_us,true,ivr2:/1/2/2/26/
 GS,גולדמן זאקס,גּוֹלְדְמַן זַאְקְס,stock_us,true,ivr2:/1/2/2/27/
 WFC,וולס פארגו,וֵולְס פַּארְגוֹ,stock_us,true,ivr2:/1/2/2/28/
-XOM,אקסון מוביל,אֶקְסוֹן מוֹבִּיל,stock_us,true,ivr2:/1/2/2/29/
+XOM,אקסון מוביל,אֶקְסוֹן מוֹבָּיל,stock_us,true,ivr2:/1/2/2/29/
 CVX,שברון,שֶׁבְרוֹן,stock_us,true,ivr2:/1/2/2/30/
 BA,בואינג,בּוֹאִינְג,stock_us,true,ivr2:/1/2/2/31/
 CAT,קטרפילר,קָטֶרְפִּילַר,stock_us,true,ivr2:/1/2/2/32/
@@ -44,7 +44,7 @@ ZM,זום,זוּם,stock_us,false,
 DBX,דרופבוקס,דְּרוֹפְּבּוֹקְס,stock_us,false,
 SPLK,ספלאנק,סְפְּלַאנְק,stock_us,false,
 DOCU,דוקיוסיין,דּוֹקוּסַיין,stock_us,false,
-NET,קלאודפלייר,קְלַאוּדְפְלֵיֵיר,stock_us,false,
+NET,קלאודפלייר,קְלָאוּדְפְלֵיֵיר,stock_us,false,
 DDOG,דאטאדוג,דָאטָאדוֹג,stock_us,false,
 LMND,למונייד,לֶמוֹנֵיְד,stock_us,false,
 FVRR,פייבר,פַייבֵר,stock_us,false,
@@ -65,8 +65,6 @@ SPOT,ספוטיפיי,סְפוֹטִיפַּיי,stock_us,false,
 BKNG,בוקינג,בּוּקִינְג,stock_us,false,
 LYFT,ליפט,לִיפְט,stock_us,false,
 BOX,בוקס,בּוֹקְס,stock_us,false,
-GOOG,גוגל (קלאס C),גוּגֶל,stock_us,false,
-FB,פייסבוק,פֵּיְסְבּוּק,stock_us,false,
 SNAP,סנאפצ'ט,סְנַאפְצָ׳ט,stock_us,false,
 LMT,לוקהיד מרטין,לוֹקְהִיד מַרְטִין,stock_us,false,
 RTX,ריית'יאון טכנולוגיות,רֵייְתִיאוֹן טֶכְנוֹלוֹגְיוֹת,stock_us,false,
@@ -118,12 +116,12 @@ GDX,ואן-אק מניות זהב,וָאן־אֶק מְנָיוֹת זָהָב,s
 SLV,איישרס כסף,אֵייְשֶׁרְס כֶּסֶף,stock_us,false,
 GLD,ספיידר זהב,סְפַּייְדֶר זָהָב,stock_us,false,
 USO,יו.אס. אויל,יוּ.אֶס. אוֹיְל,stock_us,false,
-TLT,איישרס אג"ח ארה"ב 20+,אֵייְשֶׁרְס אֲגַ"ח ארה"ב 20+,stock_us,false,
-HYG,איישרס אג"ח זבל,אֵייְשֶׁרְס אֲגַ"ח זֶבֶל,stock_us,false,
-LQD,איישרס אג"ח חברות,אֵייְשֶׁרְס אֲגַ"ח חֲבָרוֹת,stock_us,false,
+TLT,איישרס אגח ארצות הברית 20+,אֵייְשֶׁרְס אָגָח אָרְצוֹת הָבְּרִית 20+,stock_us,false,
+HYG,איישרס אגח זבל,אֵייְשֶׁרְס אֲגַח זֶבֶל,stock_us,false,
+LQD,איישרס אגח חברות,אֵייְשֶׁרְס אֲגַח חֲבָרוֹת,stock_us,false,
 AGG,אג'ג,אֶגִ'י,stock_us,false,
-BND,וונגארד אג"ח כולל,ווֹנְגָארְד אֲגַ"ח כּוֹלֵל,stock_us,false,
-IYR,איישרס נדל"ן,אֵייְשֶׁרְס נַדְלָ"ן,stock_us,false,
+BND,וונגארד אגח כולל,ווֹנְגָארְד אָגָח כּוֹלֵל,stock_us,false,
+IYR,איישרס נדלן,אֵייְשֶׁרְס נָדְלָן,stock_us,false,
 KBE,ספיידר בנקים,סְפַּייְדֶר בַּנְקִים,stock_us,false,
 KRE,ספיידר בנקים אזוריים,סְפַּייְדֶר בַּנְקִים אֲזוֹרִיִּים,stock_us,false,
 XBI,ספיידר ביוטק,סְפַּייְדֶר בִּיוֹטֶק,stock_us,false,
@@ -216,7 +214,7 @@ LAZ,לזרד,לָאזַרְד,stock_us,false,
 MCO,מודי'ס,מוּדִי'ס,stock_us,false,
 SPGI,אס-פי גלובל,אֶס־פִּי גְלוֹבָּל,stock_us,false,
 MSCI,אם-אס-סי-איי,אֶם־אֶס־סִי־אֵיי,stock_us,false,
-NDAQ,נאסד"ק,נַאסְדָ"ק,stock_us,false,
+NDAQ,נאסדק,נַאסְדָק,stock_us,false,
 ICE,אינטרקונטיננטל אקסצ'נג',אִינְטֶרְקוֹנְטִינֶנְטָל אֶקְסְצֵ'נְג',stock_us,false,
 CME,סי-אם-אי גרופ,סִי־אֶם־אֵי גְרוּפּ,stock_us,false,
 ALL,אולסטייט,אוֹלְסְטֵייט,stock_us,false,
@@ -274,3 +272,85 @@ RMD,רסמד,רֶסְמֶד,stock_us,false,
 STE,סטריקר,סְטְרַיְיקֶר,stock_us,false,
 TDOC,טלדוק הלת',טֶלְדוֹק הֶלְת',stock_us,false,
 VEEV,ויב סיסטמס,וִויב סִיסְטֶמְס,stock_us,false,
+LUMI.TA,בנק לאומי,בָּנְק לֵאוּמִי,stock_il,true,ivr2:/1/2/1/01/
+POLI.TA,בנק הפועלים,בָּנְק הַפּוֹעֲלִים,stock_il,true,ivr2:/1/2/1/02/
+MZTF.TA,מזרחי טפחות,מִזְרָחִי טַפְחוֹת,stock_il,true,ivr2:/1/2/1/03/
+DSCT.TA,דיסקונט,דִיסְקוֹנְט,stock_il,true,ivr2:/1/2/1/04/
+FIBI.TA,הבנק הבינלאומי,הַבָּנְק הַבֵּינְלְאוּמִי,stock_il,true,ivr2:/1/2/1/05/
+TEVA,טבע,טֵבָע,stock_il,true,ivr2:/1/2/1/06/
+PRGO,פריגו,פְּרִיגוֹ,stock_il,true,ivr2:/1/2/1/07/
+ICL.TA,כיל,כִּיל,stock_il,true,ivr2:/1/2/1/08/
+NICE.TA,נייס,נַיְיס,stock_il,true,ivr2:/1/2/1/09/
+ESLT.TA,אלביט מערכות,אֶלְבִּיט מַעֲרָכוֹת,stock_il,true,ivr2:/1/2/1/10/
+OPK,אופקו הלת',אוֹפְּקוֹ הֶלְת',stock_il,true,ivr2:/1/2/1/11/
+BEZQ.TA,בזק,בֶּזֶק,stock_il,true,ivr2:/1/2/1/12/
+CEL.TA,סלקום,סֶלְקוֹם,stock_il,true,ivr2:/1/2/1/13/
+PTNR.TA,פרטנר,פַּרְטְנֶר,stock_il,true,ivr2:/1/2/1/14/
+SAE.TA,שופרסל,שׁוּפֶרְסָל,stock_il,true,ivr2:/1/2/1/15/
+DLEKG.TA,דלק קבוצה,דֶּלֶק קְבוּצָה,stock_il,true,ivr2:/1/2/1/16/
+PAZ.TA,פז נפט,פַּז נֶפֶט,stock_il,true,ivr2:/1/2/1/17/
+ENRG.TA,אנרג'יקס,אֵנֶרְג'ִיקְס,stock_il,true,ivr2:/1/2/1/18/
+ENLT.TA,אנלייט,אֶנְלַיְיט,stock_il,true,ivr2:/1/2/1/19/
+ARPT.TA,איירפורט סיטי,אֲיֵירְפּוֹרְט סִיטִי,stock_il,true,ivr2:/1/2/1/20/
+MLSR.TA,מליסרון,מֶלִיסְרוֹן,stock_il,true,ivr2:/1/2/1/21/
+AZRG.TA,עזריאלי,עָזְרִאֵלִי,stock_il,true,ivr2:/1/2/1/22/
+SKBN.TA,שיכון ובינוי,שִׁיכּוּן וּבִּנוּי,stock_il,true,ivr2:/1/2/1/23/
+ASHG.TA,אשטרום קבוצה,אַשְׁטְרוֹם קְבוּצָה,stock_il,true,ivr2:/1/2/1/24/
+GVYM.TA,גב ים,גַּב יָם,stock_il,true,ivr2:/1/2/1/25/
+TCOM.TA,טכנופלס ונצ'רס,טֶכְנוֹפְּלַס וֶנְצֶ'רְס,stock_il,false,
+RRCM.TA,רציו אנרגיות,רַצְיוֹ אֶנֶרְגִּיוֹת,stock_il,false,
+DRN.TA,דורי דרדסים,דּוֹרִי דַּרְדַּסִּים,stock_il,false,
+MGDL.TA,מגדל ביטוח,מִגְדָּל בִּיטוּחַ,stock_il,false,
+PHOE.TA,הפניקס,הַפִּינִיקְס,stock_il,false,
+CLIS.TA,כלל ביוטכנולוגיה,כְּלַל בִּיוֹטֶכְנוֹלוֹגְיָה,stock_il,false,
+HLAN.TA,החברה לישראל,הַחֶבְרָה לְיִשְׂרָאֵל,stock_il,false,
+ESCM.TA,אפסילון קפיטל,אֶפְּסִילוֹן קַפִּיטַל,stock_il,false,
+ALRM.TA,אלרונט,אֵלְרוֹנֶט,stock_il,false,
+TSEM.TA,טאוור סמיקונדקטור,טַאוֶור סֶמִיקּוֹנְדַקְטוֹר,stock_il,false,
+RVLV.TA,רבלב,רֶבְלֶב,stock_il,false,
+TRLY.TA,טרקלין חשמל,טְרַקְלִין חַשְׁמַל,stock_il,false,
+ILDC.TA,ישראמקו,יִשְׂרָאמְקוֹ,stock_il,false,
+INSP.TA,אינספיריישן,אִינְסְפִּירֵישְׁן,stock_il,false,
+DSFI.TA,דיסקונט השקעות,דִּיסְקוֹנְט הַשְׁקָעוֹת,stock_il,false,
+IDBG.TA,אי.די.בי פיתוח,אִי.דִי.בִּי פִּיתּוּחַ,stock_il,false,
+SPCR.TA,ספייר,סְפַּיֶיר,stock_il,false,
+BCOM.TA,ביקום,בִּיקוּם,stock_il,false,
+ADR.TA,אדגר,אֶדְגָּר,stock_il,false,
+GSUN.TA,גלובל סאן,גְלוֹבָּל סַאן,stock_il,false,
+HRMN.TA,הראל השקעות,הַרְאֵל הַשְׁקָעוֹת,stock_il,false,
+LPHY.TA,לפידות קפיטל,לַפִּידוֹת קַפִּיטַל,stock_il,false,
+OMER.TA,עומר השקעות,עוֹמֶר הַשְׁקָעוֹת,stock_il,false,
+CANA.TA,קנאשור,קָנָאשׁוּר,stock_il,false,
+RNET.TA,רדקום,רַדְקוֹם,stock_il,false,
+ESPA.TA,אספן גרופ,אֶסְפֶּן גְרוּפּ,stock_il,false,
+GNBN.TA,גנרל בייטינג,גֶ'נֶרַל בֵּייְטִינְג,stock_il,false,
+NVMI.TA,נובה,נוֹבָה,stock_il,false,
+CMMT.TA,קומפיוג'ן,קוֹמְפִּיוּגֶ'ן,stock_il,false,
+PERI.TA,פריון נטוורק,פֶּרִיוֹן נֶטְוֹורְק,stock_il,false,
+ORSC.TA,אורסק,אוֹרְסֶק,stock_il,false,
+CRNT.TA,סרגון נטוורקס,סַרְגוֹן נֶטְוֹורְקְס,stock_il,false,
+DSGX.TA,דלתא גליל,דֶּלְתָּא גָלִיל,stock_il,false,
+GFI.TA,גזית גלוב,גָּזִית גְלוֹב,stock_il,false,
+MTRX.TA,מטריקס,מַטְרִיקְס,stock_il,false,
+AZRI.TA,עזריאלי קניונים,עָזְרִאֵלִי קַנְיוֹנִים,stock_il,false,
+RLOG.TA,רציו לוגיסטיקה,רַצְיוֹ לוֹגִיסְטִיקָה,stock_il,false,
+ARCM.TA,ארקו השקעות,אָרְקוֹ הַשְׁקָעוֹת,stock_il,false,
+AMOT.TA,אמות השקעות,אֲמוֹת הַשְׁקָעוֹת,stock_il,false,
+ENOG.TA,אנרג'יאן,אֶנֶרְגִ'יאַן,stock_il,false,
+AVLI.TA,אבליון,אַבְלִיוֹן,stock_il,false,
+OPC.TA,או.פי.סי אנרגיה,אוֹ.פִּי.סִי אֶנֶרְגְּיָה,stock_il,false,
+ISR.TA,ישראמקו נפט וגז,יִשְׂרָאמְקוֹ נֶפְט וְגַז,stock_il,false,
+BIRD.TA,בירד,בִּירְד,stock_il,false,
+CELO.TA,סלנס,סֶלֶנְס,stock_il,false,
+NRG.TA,אנרגיה ירוקה,אֶנֶרְגְּיָה יְרוּקָה,stock_il,false,
+PEXI.TA,פרפקטו,פֶּרְפֶּקְטוֹ,stock_il,false,
+RDWR.TA,רדוור,רַדְוֶור,stock_il,false,
+VRST.TA,וראזון,וֶרָאזוֹן,stock_il,false,
+GIVN.TA,גיוון אימג'ינג,גִּיוּוּן אִימֵגִ'ינְג,stock_il,false,
+MEDA.TA,מדטכניקה,מֶדְטֶכְנִיקָה,stock_il,false,
+ALON.TA,אלון רבוע כחול,אַלּוֹן רִבּוּעַ כָּחוֹל,stock_il,false,
+KPS.TA,קבוצת פלרם,קְבוּצַת פְּלֶרָם,stock_il,false,
+SHVA.TA,שבא,שֵׁירוּתֵי בָּנְק אוֹטוֹמָטִיִם,stock_il,false,
+MTHY.TA,מטרו מוטור,מֶטְרוֹ מוֹטוֹר,stock_il,false,
+ONE.TA,וואן טכנולוגיות,וואן טֶכְנוֹלוֹגְיוֹת,stock_il,false,
+TDRN.TA,תדיראן,תַדִירָאן,stock_il,false,
