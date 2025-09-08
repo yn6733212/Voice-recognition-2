@@ -37,7 +37,7 @@ log = logging.getLogger(__name__)
 USERNAME = "0733181201"
 PASSWORD = "6714453"
 TOKEN = f"{USERNAME}:{PASSWORD}"
-UPLOAD_FOLDER_FOR_OUTPUT = "7"
+UPLOAD_FOLDER_FOR_OUTPUT = "22"
 
 # --- הגדרות קבצים ---
 CSV_FILE_PATH = "stock_data.csv"
