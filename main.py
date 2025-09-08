@@ -281,10 +281,10 @@ async def process_yemot_recording(audio_file_path):
             log.warning("לא נמצאו נתונים למניה.")
     else:
         if recognized_text:
-            response_text = "לא נמצאה התאמה לנייר הערך שביקשת. אנא נסה שוב."
+            response_text = "לא נמצאה התאמה לנייר הערך שביקשת. אנא נָסֵה שוב."
             log.warning("לא נמצאה התאמה לרשימה.")
         else:
-            response_text = "לא זוהה דיבור ברור בהקלטה. אנא נסה לדבר באופן ברור יותר."
+            response_text = "לא זוהה דיבור ברור בהקלטה. אנא נָסֵה לדבר באופן ברור יותר."
             log.warning("לא זוהה דיבור.")
 
     output_yemot_wav_name = f"{OUTPUT_AUDIO_FILE_BASE}.wav"
