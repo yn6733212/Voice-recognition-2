@@ -8,3 +8,5 @@ requests-toolbelt
 numpy
 setuptools
 Flask
+rapidfuzz
+
